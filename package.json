@@ -9,6 +9,9 @@
     "index.d.ts",
     "package.json"
   ],
+  "repository": {
+    "url": "https://github.com/Gao-pw/useOnceRequest"
+  },
   "scripts": {
     "build": "tsc -d",
     "init": "easyfront init-hooks",
