@@ -1,6 +1,6 @@
 {
   "name": "@siroi/use-once-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "适用于 umijs + openapi 的竞态请求 hook",
   "main": "index.js",
   "types": "index.d.ts",
