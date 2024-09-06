@@ -16,13 +16,12 @@
     "build": "tsc -d",
     "init": "easyfront init-hooks",
     "release": "easyfront release",
-    "lint-commit": "easyfront commitlint",
-    "prepare": "husky"
+    "lint-commit": "easyfront commitlint"
   },
   "keywords": [],
   "author": "siroi",
   "devDependencies": {
-    "@maxwell-zhai/easyfront": "1.1.2",
+    "@maxwell-zhai/easyfront": "^1.1.2",
     "@types/react": "18"
   },
   "peerDependencies": {
