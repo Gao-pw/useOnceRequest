@@ -1,5 +1,12 @@
 
 
+## 1.0.2 (2024-09-09)
+
+
+### ✨ Features
+
+* **hooks**: 支持多个 request 请求 ([c96e898](https://github.com/Gao-pw/useOnceRequest/commit/c96e898))
+
 ## 1.0.1 (2024-09-06)
 
 
